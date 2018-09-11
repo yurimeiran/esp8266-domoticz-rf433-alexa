@@ -42,8 +42,8 @@ RCSwitch mySwitch = RCSwitch();
 long last_mls = millis();     //time function in miliseconds
 
 /*Wi-Fi setting*/
-const char* ssid = "BTHub5-PJ58";
-const char* password = "YuriMeiran465859";
+const char* ssid = "************";
+const char* password = "************";
 const char* mqtt_server = "192.168.1.75"; //broker address
 
 /* MQTT Settings */
